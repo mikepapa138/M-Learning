@@ -3,20 +3,20 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.moodlemobile"
-        versionCode = "2011"
-        version   = "3.0.0">
-    <name>Mobile Learning</name>
+        versionCode = "2010"
+        version   = "2.9">
+    <name>Moodle Mobile</name>
 
     <description>
-        Mobile Learning PTK PPs UNM
+        Moodle Mobile official app
     </description>
 
-    <author href="http://m-learning.online/" email="mmaspul@gmail.com">
-        13B20017_Muslim
+    <author href="http://moodle.com" email="mobile@moodle.com">
+        Moodle Pty Ltd
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>3.0.0</string>
+        <string>2.9</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
