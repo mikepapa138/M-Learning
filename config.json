@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.moodle.moodlemobile",
+    "app_id" : "com.capytech.moodlemobile",
     "versioncode" : "2012",
     "versionname" : "3.1.0",
     "cache_expiration_time" : 300000,
@@ -8,7 +8,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-	"siteurl": "http://m-learning.online/",
+	"siteurl": "http://capytech.com/dev/capytechlms/",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile"
 }
