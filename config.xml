@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.capytech.moodlemobile"
         versionCode = "2012"
         version   = "3.1.0">
-    <name>Moodle Mobile Learning</name>
+    <name>Capytech Mobile Learning</name>
 
     <description>
-        Aplikasi Mobile Learning PTK PPs UNM
+        Capytech Mobile Learning
     </description>
 
-    <author href="http://m-learning.online" email="mmaspul@gmail.com">
-        13B20017 MUSLIM
+    <author href="http://capytech.com" email="mike@capytech.com">
+        Capytech
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
